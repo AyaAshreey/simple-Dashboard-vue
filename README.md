@@ -1,3 +1,6 @@
+### Live Link
+https://ayaashreey.github.io/simple-Dashboard-vue/#/
+
 # dashboard
 
 ## Project setup
